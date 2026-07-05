@@ -137,34 +137,16 @@ ProyectoModal/
 
 
 
-```
-[https://usuario.github.io/ProyectoModal/](https://emilioreyes2219.github.io/Actividad3/)
-```
+https://emilioreyes2219.github.io/Actividad3/
 
 ---
 
-# Repositorio
 
-**Repositorio público:**
 
-**Pega aquí el enlace de tu repositorio**
-
-Ejemplo:
-
-```
-https://github.com/usuario/ProyectoModal
-```
-
----
 
 # Video demostrativo
 
-Agregar el enlace del video (máximo 1 minuto) donde se muestre:
 
-- El problema que resuelve el componente.
-- Cómo se instala.
-- Cómo se utiliza.
-- El resultado final en funcionamiento.
 
 ---
 
