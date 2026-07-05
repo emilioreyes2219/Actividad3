@@ -113,21 +113,25 @@ ProyectoModal/
 
 ## Página principal
 
-![Página principal](img/captura1.png)
+![Página principal](img/index.png)
 
 ---
 
 ## Modal funcionando
 
-![Modal](img/captura2.png)
+![Modal](img/modal.png)
 
 ---
 
-## Consola del navegador
 
-![Consola](img/consola.png)
+![Consola](img/modal2.png)
 
 ---
+
+![Consola](img/modal3.png)
+
+---
+
 
 # GitHub Pages
 
