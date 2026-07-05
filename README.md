@@ -135,7 +135,6 @@ ProyectoModal/
 
 # GitHub Pages
 
-**Sitio en funcionamiento:**
 
 
 
