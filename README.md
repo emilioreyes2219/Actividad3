@@ -135,10 +135,10 @@ ProyectoModal/
 
 **Pega aquí tu enlace de GitHub Pages**
 
-Ejemplo:
+
 
 ```
-https://usuario.github.io/ProyectoModal/
+[https://usuario.github.io/ProyectoModal/](https://emilioreyes2219.github.io/Actividad3/)
 ```
 
 ---
