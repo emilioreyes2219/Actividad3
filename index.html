@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Componente Modal</title>
+  <link rel="stylesheet" href="css/componente.css" />
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin-top: 60px;
+      background-color: #f5f5f5;
+    }
+    button {
+      margin: 8px;
+      padding: 10px 20px;
+      font-size: 15px;
+      border: none;
+      border-radius: 20px;
+      background-color: #2b6cb0;
+      color: white;
+      cursor: pointer;
+      box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
+    }
+    button:hover {
+      background-color: #1e4e80;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Componente Modal</h1>
+
+  <button onclick="crearModal({
+    titulo: 'Bienvenido',
+    contenido: 'Este es un modal de ejemplo número 1.',
+    textoBoton: 'Entendido'
+  })">Abrir modal 1</button>
+
+  <button onclick="crearModal({
+    titulo: '¡Compra exitosa!',
+    contenido: 'Tu pedido fue registrado correctamente.',
+    textoBoton: 'Aceptar'
+  })">Abrir modal 2</button>
+
+  <button onclick="crearModal({
+    titulo: 'Aviso',
+    contenido: '¿Seguro que deseas salir sin guardar?',
+    textoBoton: 'Cerrar'
+  })">Abrir modal 3</button>
+
+  <script src="js/componente.js"></script>
+</body>
+</html>
