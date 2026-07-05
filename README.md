@@ -133,7 +133,7 @@ ProyectoModal/
 
 **Sitio en funcionamiento:**
 
-**Pega aquí tu enlace de GitHub Pages**
+
 
 
 
