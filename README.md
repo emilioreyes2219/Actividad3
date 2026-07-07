@@ -149,8 +149,22 @@ https://emilioreyes2219.github.io/Actividad3/
 
 # Video demostrativo
 
+---
 
 
+
+Componente en JavaScript con estilos CSS.
+
+## 🚀 Uso desde CDN
+
+Puedes incluir el componente y sus estilos directamente en tu proyecto con jsDelivr:
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/emilioreyes2219/Actividad3@v1.0.0/css/estilos.css">
+```
+```html
+<script src="https://cdn.jsdelivr.net/gh/emilioreyes2219/Actividad3@v1.0.0/js/componente.js"></script>
+```
 ---
 
 # Autor
